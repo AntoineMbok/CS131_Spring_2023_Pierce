@@ -1,0 +1,6 @@
+For my project, I decided to briefly explain how some sorting algorithms work since having data sorted is very important in most programs. 
+The three algorithms I talked about were Bubble Sort, Insertion Sort, and Merge Sort because they are some of the easier sorting algorithms 
+to explain, and they are also mentioned in the textbook. I used big O notation to show the average runtimes of each algorithm. I also provided 
+a visual trace example of each sort to make them easier to understand, but didn't go too in-depth since I didn't want to take too long. 
+
+Youtube Link: https://youtu.be/ByEfUwkgKuc
